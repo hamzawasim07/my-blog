@@ -4,6 +4,8 @@ date: "2026-11-09"
 excerpt: "A reflection on teaching, mentorship, and the lasting impact of educators in higher education."
 ---
 
+![Mr. Yaseen Ahmed Meenai speaking at a lectern](/images/yaseen-ahmed-meenai.jpg)
+
 Education is not simply about transferring knowledge from one person to another; it is about inspiring individuals to think critically, explore new ideas, and become better versions of themselves. Great teachers do more than explain concepts from textbooks. They create an environment where students feel motivated to learn, question, and grow. One educator associated with this spirit of academic excellence is **Mr. Yaseen Ahmed Meenai**.
 
 ## An Academic Journey Built on Knowledge
